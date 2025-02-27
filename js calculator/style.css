@@ -1,0 +1,47 @@
+input{
+    border: none;
+    outline: none;
+    box-shadow: none !important;
+}
+
+button{
+    border: none;
+    outline: none;
+    box-shadow: none !important;
+}
+
+.btn-calc{
+   width: 22%;
+   height: 50px;
+   font-size: 20px;
+}
+
+.btn-opr{
+    width: 20%;
+    height: 50px;
+}
+
+.btn-eq{
+    width: 44%;
+    height: 50px;
+}
+.dot-opr{
+    width: 22%;
+    height: 50px;
+}
+
+.clr-opr{
+    height: 50px;
+    width: 23%;
+}
+.del-opr{
+    width: 23%;
+    height: 50px;
+}
+
+.image{
+    background-image: url(./submit.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
